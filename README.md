@@ -1,7 +1,7 @@
 # by-gen-pack-1
 Small selection of content (by me) for BY-GEN (by Curtis Holt, https://github.com/curtisjamesholt/BY-GEN-public). Uses BY-GENs official content pack as a basis.
 
-![BY-GEN_Content_Pack_1](https://user-images.githubusercontent.com/18192380/225622216-7a6240eb-5fec-40f5-9892-310d2f77e5a5.png)
+![BY-GEN_Content_Pack_1](https://user-images.githubusercontent.com/18192380/225631228-fe12daad-fe5d-4d30-8f30-a24fd63f900d.png)
 
 Adds a small selection of five additional surface effects, intended to be used with Curtis Holts BY-GEN blender plugin.
 This was lying around in my personal files for some time, decided to be released now. 
