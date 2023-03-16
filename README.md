@@ -7,11 +7,11 @@ Adds a small selection of five additional surface effects, intended to be used w
 This was lying around in my personal files for some time, decided to be released now. 
 
 The effects include:
-1 Bismuth: A selection of multiple simple meshes to create a stylized bismuth surface. 
-2 Crystallized: Overlaps simple geometric shapes to create something akin to a crystallized surface.
-3 RoughStone: Uses a few low-detail meshes to create rough-looking shards of stone on the surface. Results may vary in quality.
-4 Trypo: An abstract arching shape.
-5 Trypo_2: an abstract organic looking shape, perhaps to be used as alien rock.
+- Bismuth: A selection of multiple simple meshes to create a stylized bismuth surface. 
+- Crystallized: Overlaps simple geometric shapes to create something akin to a crystallized surface.
+- RoughStone: Uses a few low-detail meshes to create rough-looking shards of stone on the surface. Results may vary in quality.
+- Trypo: An abstract arching shape.
+- Trypo_2: an abstract organic looking shape, perhaps to be used as alien rock.
 
 Installation:
 Place the 'Exaii_Content_Pack_1' folder inside BY-GENs 'content_packs'-folder for plugin integration. 
