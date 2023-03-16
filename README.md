@@ -20,8 +20,8 @@ Use the dropdown in BY-GENs Surface Effects Tab to select this content pack to a
 Created on the basis of Curtis Holts 'Official'-content pack file inside said plugin. 
 Uses a slightly modified setup in geometry nodes, mostly similiar to Curtis' original surface effects. 
 
-Current Issues:
+Current Issue(s):
 - Might create a unused duplicate collection for the effect. This additional collection can be deleted safely. Debug pending.
 
 Thanks:
-- Thanks to Curtis for creating BY-GEN, and to all the additional creators involved in the project.
+- Thanks to Curtis Holt for creating BY-GEN and to all the additional creators involved in the project.
